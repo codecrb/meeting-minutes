@@ -1,0 +1,8 @@
+# 工作区临时文件
+*-workspace/
+__pycache__/
+*.pyc
+.DS_Store
+
+# 评测结果（不需要提交）
+evals/files/
